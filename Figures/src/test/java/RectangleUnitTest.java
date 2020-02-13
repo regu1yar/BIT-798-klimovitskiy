@@ -1,7 +1,7 @@
-package unitTests;
+package test.java;
 
-import figures.Figure;
-import figures.Rectangle;
+import main.java.figures.Figure;
+import main.java.figures.Rectangle;
 import org.junit.Assert;
 import org.junit.Test;
 

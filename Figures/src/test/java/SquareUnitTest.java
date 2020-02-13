@@ -1,7 +1,7 @@
-package unitTests;
+package test.java;
 
-import figures.Figure;
-import figures.Square;
+import main.java.figures.Figure;
+import main.java.figures.Square;
 import org.junit.Assert;
 import org.junit.Test;
 

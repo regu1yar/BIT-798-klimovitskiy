@@ -1,4 +1,4 @@
-package figures;
+package main.java.figures;
 
 public class Circle implements Figure {
     private double radius;

@@ -1,4 +1,4 @@
-package figures;
+package main.java.figures;
 
 public class Square implements Figure {
     private double side;
